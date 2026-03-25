@@ -1,5 +1,5 @@
 public class TestMiPunto {
-    public static void TestMiPunto(String[] args) {
+    public static void main(String[] args) {
         MiPunto p1 = new MiPunto(); // (0,0)
         MiPunto p2 = new MiPunto(10, 30.5);
 
